@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**sidddev7/sidddev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a MERN stack Developer
+- 👯 I’m looking to collaborate on Open Source porjects
+- 💬 Ask me about React.js, Next.js, Javascript, Gatsby.js, Node.js, Graphql
+- 📫 How to reach me: ggohil2012@gmai.com
+- ⚡ Motivation:
 
-Here are some ideas to get you started:
+```
+while noSuccess(){
+  tryAgain()
+  if(Dead){
+  break;
+  }
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
