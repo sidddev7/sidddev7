@@ -2,12 +2,12 @@
 🔭 I’m currently working as a MERN stack Developer<br>👯 I’m looking to collaborate on Open Source porjects<br>💬 Ask me about React.js, Next.js, React Native, Javascript, Gatsby.js, Node.js, Graphql<br>📫 How to reach me: ggohil2012@gmai.com<br>⚡ Motivation:
 
 ```javascript
-while noSuccess(){
-tryAgain()
-if(Dead){
-break;
-}
-}
+    while noSuccess(){
+    tryAgain()
+    if(Dead){
+    break;
+    }
+    }
 ```
 
 ## 🌐 Socials:
