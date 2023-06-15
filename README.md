@@ -37,14 +37,6 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=sidddev7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### My Stats
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sidddev7/sidddev7/output/snake.svg" alt="Snake animation" />
-
-###
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sidddev7&icon=1&color=4)](https://visitcount.itsvg.in)
