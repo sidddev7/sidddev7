@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working as a MERN stack Developer<br>👯 I’m looking to collaborate on Open Source projects<br>💬 Ask me about React.js, Next.js, React Native, Javascript, Gatsby.js, Node.js, Graphql<br>📫 How to reach me: ggohil2012@gmail.com<br>⚡ Motivation:
+🔭 I’m currently working as a MERN stack Developer<br>👯 I’m looking to collaborate on Open Source projects<br>💬 Ask me about React.js, Next.js, React Native, Javascript, Gatsby.js, Node.js, Graphql<br>📫 How to reach me: sidraj2019@gmail.com<br>⚡ Motivation:
 
 ```javascript
     while noSuccess(){
